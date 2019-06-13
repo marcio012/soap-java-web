@@ -1,0 +1,8 @@
+
+‡squid:S13190"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(û²ƒ•
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¼Ğıÿûÿÿÿÿ
+^squid:S1192G"HDefine a constant instead of duplicating this literal "Celular" 6 times.(—ãÛP
+gsquid:S4143D"DVerify this is the key that was intended; it was already set before.(¯ğâ›şÿÿÿÿ8­¥€÷´-
+]squid:S1192C"FDefine a constant instead of duplicating this literal "Livro" 3 times.(×´ğæ
+gsquid:S3008"PRename this field "ITENS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆñÁ
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İƒÏåşÿÿÿÿ
