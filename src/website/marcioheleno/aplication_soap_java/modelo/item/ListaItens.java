@@ -17,7 +17,6 @@ public class ListaItens {
 		this.itens = itens;
 	}
 
-
 	ListaItens() {
 	}
 
